@@ -14,4 +14,4 @@ Puis arrive le moment où il faut commencer à s'entrainer à ajouter, modifier 
 
 # Exercice 4
 
-Enfin, il à fallut saisir la méthode Merise (avec nottament les entités et les relations) en commençant par le MCD (ici, aucune difficulté rencontrée...pour l'instant)
+Enfin, il a fallut saisir la méthode Merise (avec nottament les entités et les relations) en commençant par le MCD (ici, aucune difficulté rencontrée...pour l'instant)
